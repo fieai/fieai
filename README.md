@@ -24,22 +24,8 @@ Current focus:
 - Autonomous coding workflows  
 - AI-native DevOps pipelines  
 - Long-context reasoning systems  
-- Productionizing LLM capability  
-
----
-
-## 🚀 Flagship Work
-
-### Codeman — AI Coding Agent Framework
-
-Building infrastructure for autonomous software execution.
-
-- Agent orchestration  
-- Tool routing & context isolation  
-- Plugin ecosystem  
-- DevOps integration  
-- Enterprise-ready workflows  
-
+- Productionizing LLM capability
+  
 ---
 
 ## ⚙️ Tech Territory
