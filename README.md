@@ -1,53 +1,63 @@
-<h1 align="center">Fie AI</h1>
+<!-- HERO -->
+
+<h1 align="center">
+Fie AI
+</h1>
 
 <p align="center">
-Building experimental systems at the frontier of autonomous software
+Exploring the frontier of autonomous software systems
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Systems;Autonomous+Workflows;AI-native+Engineering;LLM+Infrastructure;Future+Software&center=true&width=500&height=45">
 </p>
 
 ---
 
-## About
+## 🧠 About
 
-I focus on designing engineering systems for the AI-native era.
+I build experimental systems at the edge of AI capability.
 
-Current exploration areas:
+Current focus:
 
+- Multi-Agent architecture  
 - Autonomous coding workflows  
-- Multi-agent orchestration  
-- Long-context execution models  
 - AI-native DevOps pipelines  
-- Production infrastructure for LLM systems  
+- Long-context reasoning systems  
+- Productionizing LLM capability  
 
 ---
 
-## Flagship Project
+## 🚀 Flagship Work
 
-### Codeman
+### Codeman — AI Coding Agent Framework
 
-An experimental framework for building autonomous software workflows.
+Building infrastructure for autonomous software execution.
 
-Core directions:
-
-- Agent coordination  
+- Agent orchestration  
 - Tool routing & context isolation  
-- Execution observability  
-- Deployment integration  
-- Enterprise-scale extensibility  
+- Plugin ecosystem  
+- DevOps integration  
+- Enterprise-ready workflows  
 
 ---
 
-## Engineering Territory
+## ⚙️ Tech Territory
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,nodejs,react,python,java,linux,docker,kubernetes,redis,mysql,git" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,react,python,java,linux,docker,kubernetes,redis,mysql,git" />
 </p>
 
 ---
 
-## Activity
+## 📊 Engineering Signal
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fieai&show_icons=true&hide_border=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=fieai&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fieai&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -56,27 +66,35 @@ Core directions:
 
 ---
 
-## Current Work
+## 🧩 Current Experiments
 
-Designing next-generation execution patterns for AI systems:
+Designing next-gen AI execution models:
 
-- Memory & context engines  
+- Agent memory systems  
+- Dynamic context injection  
+- Observability for AI workflows  
 - Autonomous debugging loops  
-- Agent runtime design  
-- AI workflow observability  
-- Infrastructure for continuous AI execution  
+- AI + DevOps convergence  
 
 ---
 
-## Perspective
+## 🐍 Contribution Snake
 
-Software is moving from deterministic programs  
-to probabilistic systems with autonomous behavior.
-
-I build tools and experiments around that transition.
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-## Contact
-;
-email: jerryfie0518@gmail.com
+## 🌌 Vision
+
+Software is shifting from human-driven → AI-assisted → AI-autonomous.
+
+I explore how engineering systems should evolve in that transition.
+
+---
+
+## 🤝 Connect
+
+- Blog (coming soon)  
+- Email jerryfie0518@gmail.com
