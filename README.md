@@ -83,4 +83,4 @@ I explore how engineering systems should evolve in that transition.
 ## 🤝 Connect
 
 - Blog (coming soon)  
-- Email jerryfie0518@gmail.com
+- Email jfie0518@gmail.com
