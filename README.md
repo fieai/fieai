@@ -1,7 +1,7 @@
 # Zongchang Shou · 寿宗昌 (Jerry)
 
 **AI Application Engineer · Frontend Architecture · Full-Stack Delivery**  
-杭州 · Hangzhou, China (Remote-friendly · GMT+8) · [Resume / 在线简历](https://reseme.shouzc.site/) · [szc807414589@gmail.com](mailto:szc807414589@gmail.com)
+杭州 · Hangzhou, China (Remote-friendly · GMT+8) · [Resume / 在线简历](https://resume.shouzc.site/) · [szc807414589@gmail.com](mailto:szc807414589@gmail.com)
 
 10+ years of frontend architecture experience (Staff Frontend Engineer at Servyou Group, leading observability SDK/platform across **180+ apps** and build tooling across **200+ apps**). Over the past two years, focused on **verifiable AI Agent workflows**, **AI developer tools** (**100+ apps** enabled with AI Code Review), and **end-to-end product delivery** across Web, Node.js / Python, and native SwiftUI (macOS / iOS).
 
