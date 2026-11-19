@@ -3,9 +3,9 @@
 **AI Application Engineer · Frontend Architecture · Full-Stack Delivery**  
 杭州 · Hangzhou, China (Remote-friendly · GMT+8) · [Resume / 在线简历](https://resume.shouzc.site/) · [szc807414589@gmail.com](mailto:szc807414589@gmail.com)
 
-10+ years of frontend architecture experience (Staff Frontend Engineer at Servyou Group, leading observability SDK/platform across **180+ apps** and build tooling across **200+ apps**). Over the past two years, focused on **verifiable AI Agent workflows**, **AI developer tools** (**100+ apps** enabled with AI Code Review), and **end-to-end product delivery** across Web, Node.js / Python, and native SwiftUI (macOS / iOS).
+10+ years of frontend architecture experience (Staff Frontend Engineer, leading observability SDK/platform across **180+ apps** and build tooling across **200+ apps**). Over the past two years, focused on **verifiable AI Agent workflows**, **AI developer tools** (**100+ apps** enabled with AI Code Review), and **end-to-end product delivery** across Web, Node.js / Python, and native SwiftUI (macOS / iOS).
 
-> 十年以上前端与工程基建经验，现任税友集团前端技术专家；近两年聚焦 AI Agent 业务落地、AI 研发效能工具与跨端独立产品交付，关注模型输出如何经结构化校验与人工复核稳妥进入业务流程。
+> 十年以上前端与工程基建经验近两年聚焦 AI Agent 业务落地、AI 研发效能工具与跨端独立产品交付，关注模型输出如何经结构化校验与人工复核稳妥进入业务流程。
 
 ---
 
